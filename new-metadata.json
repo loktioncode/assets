@@ -1,0 +1,54 @@
+{
+    "name": "Metaboss",
+    "symbol": "PILL",
+    "description": " the form od. Each pill acts as a pass to a gateway of exclusivity",
+    "seller_fee_basis_points": 1000,
+    "image": "https://www.arweave.net/RlL099bxLq-0iQ3Zy9Ev25i3imFocTKswTCxOrh34lc?ext=png",
+    "uri":"https://arweave.net/DfBel4mEJXlL-5GReT8vuM07V71063hZOIwJTOUQY6c",
+    "attributes": [
+        {
+            "trait_type": "Commander",
+            "value": "Yellow Common"
+        }
+    ],
+    "creators": [
+        {
+            "address": "CSNkjcZoqLafzUspDqSWENm8TGBYLcj458LnZeb64uyE",
+            "verified": true,
+            "share": 0
+        },
+        {
+            "address": "2QrbsjtqxKDdxKebyQ2v8dsE72sAXkMsp3CN4Rbxemah",
+            "share": 85,
+            "verified": false
+        },
+        {
+            "address": "AWnHHb2QxTbnzB6rN9fGJY7WFNK6UWwnTPdz2py7UhGx ",
+            "share": 5,
+            "verified": false
+        },
+        {
+            "address": "8MuZUTUMmxczPGJU7XxmgN9xHfW3BrVBRXiCarBbi8Vp",
+            "share": 5,
+            "verified": false
+        },
+        {
+            "address": "52XGqhzPGuuW167R4SGPqb8i6TRrmv7yFFYitXm2c3Zj",
+            "share": 5,
+            "verified": false
+        }
+    ],
+    "properties": {
+      
+        "files": [
+            {
+                "uri": "https://www.arweave.net/RlL099bxLq-0iQ3Zy9Ev25i3imFocTKswTCxOrh34lc?ext=png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "collection": {
+        "name": "pills",
+        "family": "pills"
+    }
+}
